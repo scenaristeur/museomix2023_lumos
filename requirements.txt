@@ -1,1 +1,3 @@
 pymata4
+pyautogui
+python-vlc
